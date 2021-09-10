@@ -12,12 +12,6 @@ descriptif(information)        string
 type(caractéristique)          string
 etage(niveau)                  string
 location/vente                 string
-balcon                         string
-gardiennage                    string
-terrasse                       string
-equipement                     string
-groupe électrogène             string
-ascenseur                      string
 référence                      string
 
 
@@ -35,10 +29,4 @@ descriptif(information)        string
 type(caractéristique)          string
 etage(niveau)                  string
 location/vente                 string
-balcon                         string
-gardiennage                    string
-terrasse                       string
-equipement                     string
-groupe électrogène             string
-ascenseur                      string
 référence                      string
