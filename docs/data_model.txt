@@ -1,0 +1,44 @@
+jumia
+-----
+col                            type
+header (titre de l'offre)      string 
+price (prix du bien)           string 
+seller (vendeur)               string 
+place (lieu)                   string 
+publication_date (date de pub) string
+pieces (nombre de pièces)      string 
+superficies                    string
+descriptif(information)        string
+type(caractéristique)          string
+etage(niveau)                  string
+location/vente                 string
+balcon                         string
+gardiennage                    string
+terrasse                       string
+equipement                     string
+groupe électrogène             string
+ascenseur                      string
+référence                      string
+
+
+expat
+-----
+col                            type
+header (titre de l'offre)      string 
+price (prix du bien)           string 
+seller (vendeur)               string 
+place (lieu)                   string 
+publication_date (date de pub) string
+pieces (nombre de pièces)      string 
+superficies                    string
+descriptif(information)        string
+type(caractéristique)          string
+etage(niveau)                  string
+location/vente                 string
+balcon                         string
+gardiennage                    string
+terrasse                       string
+equipement                     string
+groupe électrogène             string
+ascenseur                      string
+référence                      string
